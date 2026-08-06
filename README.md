@@ -1,10 +1,16 @@
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:4ECDC4&height=200&section=header&text=Welcome%20to%20My%20GitHub%20%F0%9F%91%8B&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Curious%20about%20what%20I%20do?%20Explore%20my%20projects,%20skills,%20and%20experiences%20to%20learn%20more%20about%20me.&descSize=18&descAlignY=58"/>
+
 # 💫 About Me
 
-👋 Hi there! I'm **Nabila Khairun Nisa**
+<h3 align="center">👋 Hi there! I'm <b>Nabila</b></h3>
 
+<p align="center">
 🎓 Information Systems Student | 📊 Certified Business Intelligence Analyst (BNSP)
+</p>
 
+<p align="center">
 💭 Passionate about transforming raw data into meaningful insights and impactful business solutions.
+</p>
 
 ✨ Interested in:
 - 📈 Data Analytics & Business Intelligence
