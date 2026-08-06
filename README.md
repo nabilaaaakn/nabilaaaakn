@@ -16,4 +16,6 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ---
-[![](https://komarev.com/ghpvc/?username=nabilaaaakn&icon=0&color=1)](https://visitcount.itsvg.in)
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=nabilaaaakn&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
